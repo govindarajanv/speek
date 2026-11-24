@@ -64,7 +64,7 @@ const el = {
 };
 
 // Set App Version
-const APP_VERSION = 'v1.0.0';
+const APP_VERSION = 'v1.0.1';
 if (el.versionBadge) el.versionBadge.textContent = APP_VERSION;
 if (el.footerVersionBadge) el.footerVersionBadge.textContent = APP_VERSION;
 
